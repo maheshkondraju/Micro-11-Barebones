@@ -2,7 +2,7 @@ Creates a heavily stripped down Version of Windows 11
 
 1.Mount Windows 11 iso using Windows Explorer
 
-2.Extract the downloaded contents into C:\Micro 11 Barebones
+2.Extract the downloaded contents of Micro 11 Barebones into C:\Micro 11 Barebones
 
 3.Open PowerShell as Administrator
 
